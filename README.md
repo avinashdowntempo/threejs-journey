@@ -16,6 +16,7 @@ npm run dev
 npm run build
 ```
 
-accepts verified commits
+geometries are used to create shapes
 
-threejs
+buffergeometry for creating geometry from verticies
+use lil-gui for tweaking props
